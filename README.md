@@ -46,18 +46,19 @@
 
 ## :dart: About ##
 
-Tic tac toe game implemented in REACT. There are two components:\
+Tic tac toe game implemented in REACT. There are two components:
 - Board game
 - Square
+
 The board game mantains two internal states:
 - An array with the current board state
 - An internal var with the current player.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Once a tile is checked, it can't be checked again\
+:heavy_check_mark: The color of the tile changes depending on the player\
+:heavy_check_mark: Each tile contains it's own information
 
 ## :rocket: Technologies ##
 
@@ -69,6 +70,7 @@ The following tools were used in this project:
 ## :construction_worker: Roadmap
 
 - Give the option to set player names
+- Once we have a winner disable the option to click in the tiles
 - Mantain a list with all the movements and give the option to go back in the game.
 - Add button to create a new game.
 
