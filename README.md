@@ -69,7 +69,6 @@ The following tools were used in this project:
 
 ## :construction_worker: Roadmap
 
-- Give the option to set player names
 - Once we have a winner disable the option to click in the tiles
 - Mantain a list with all the movements and give the option to go back in the game.
 - Add button to create a new game.
