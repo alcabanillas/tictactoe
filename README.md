@@ -71,7 +71,7 @@ The following tools were used in this project:
 
 - Once we have a winner disable the option to click in the tiles
 - Mantain a list with all the movements and give the option to go back in the game.
-- Add button to create a new game.
+- Add a button to start a new game.
 
 ## :white_check_mark: Requirements ##
 
