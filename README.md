@@ -49,7 +49,9 @@
 Tic tac toe game implemented in REACT. There are two components:\
 - Board game
 - Square
-The board game mantains an internal array with the current board state. 
+The board game mantains two internal states:
+- An array with the current board state
+- An internal var with the current player.
 
 ## :sparkles: Features ##
 
@@ -63,6 +65,12 @@ The following tools were used in this project:
 
 - [React](https://reactjs.org/)
 - [Javascript](https://www.javascript.com/)
+
+## :construction_worker: Roadmap
+
+- Give the option to set player names
+- Mantain a list with all the movements and give the option to go back in the game.
+- Add button to create a new game.
 
 ## :white_check_mark: Requirements ##
 
